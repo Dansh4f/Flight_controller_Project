@@ -94,7 +94,9 @@ Motor outputs are brought to a dedicated connector with shield/ground considerat
 
 A rendered view of the PCB is included in the repository as `Flight_controller_Project.pdf` — open it to see the board 3D/print preview. If you'd like the preview embedded directly into this README as an image, upload the image file (suggested path: `images/pcb_render.png`) and I will add it here.
 
-![PCB render](images/pcb_render.png)
+<p align="center">
+	<img src="images/fc_1.jpeg" alt="PCB render" width="900"/>
+</p>
 
 ## Notes & Next Steps
 
