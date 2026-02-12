@@ -98,16 +98,6 @@ The image below is a 3D rendered view of the Flight Controller PCB (top side). I
 	<img src="images/fc_1.jpeg" alt="3D render of Flight Controller PCB" width="900"/>
 </p>
 
-## Notes & Next Steps
-
-- Generated outputs and previews are excluded by `.gitignore`. If you want a smaller repo (source-only + BOM), I can prepare a cleaned export.
-- Suggested additions: `LICENSE` (MIT recommended), `CONTRIBUTING.md`, `CONTEXT.md` with wiring notes.
-- I can also prepare Gerber exports, a verified BOM, or a GitHub Actions job to run export/DRC steps if desired.
-
-## License
-
-Add your preferred license here (suggested: MIT).
-
 ## Contact
 
 **Author:** Swastik Kumar
