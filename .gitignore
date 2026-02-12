@@ -1,0 +1,23 @@
+# Altium Designer - ignore generated, cache and history folders
+__Previews/
+History/
+"Project Outputs for Flight_controller_Project"/
+"Project Logs for Flight_controller_Project"/
+
+# Common temp and editor files
+*.bak
+*.old
+*.tmp
+*.log
+*.cache
+*.drc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Backup files
+*~
