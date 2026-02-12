@@ -90,12 +90,12 @@ Motor outputs are brought to a dedicated connector with shield/ground considerat
 2. `File → Open Project` and choose `Flight_controller_Project.PrjPcb`.
 3. Open schematic and PCB documents as needed.
 
-## PCB Preview
+## PCB Preview — 3D View
 
-A rendered view of the PCB is included in the repository as `Flight_controller_Project.pdf` — open it to see the board 3D/print preview. If you'd like the preview embedded directly into this README as an image, upload the image file (suggested path: `images/pcb_render.png`) and I will add it here.
+The image below is a 3D rendered view of the Flight Controller PCB (top side). It highlights component placement, connector locations, and the overall board layout intended for manufacturing and mechanical integration.
 
 <p align="center">
-	<img src="images/fc_1.jpeg" alt="PCB render" width="900"/>
+	<img src="images/fc_1.jpeg" alt="3D render of Flight Controller PCB" width="900"/>
 </p>
 
 ## Notes & Next Steps
