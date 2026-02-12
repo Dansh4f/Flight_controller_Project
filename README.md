@@ -105,4 +105,3 @@ Add your preferred license here (suggested: MIT).
 **Author:** Swastik Kumar
 
 ---
-_This README was expanded and pushed to the repository by an assistant._
