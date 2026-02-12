@@ -102,7 +102,7 @@ Add your preferred license here (suggested: MIT).
 
 ## Contact
 
-Add author/maintainer name and contact information.
+**Author:** Swastik Kumar
 
 ---
 _This README was expanded and pushed to the repository by an assistant._
